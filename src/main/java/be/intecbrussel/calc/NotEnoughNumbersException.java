@@ -1,4 +1,4 @@
-package be.intecbrussel;
+package be.intecbrussel.calc;
 
 public class NotEnoughNumbersException extends RuntimeException{
     public NotEnoughNumbersException() {

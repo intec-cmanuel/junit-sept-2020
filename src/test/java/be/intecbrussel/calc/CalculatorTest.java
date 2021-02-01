@@ -1,4 +1,4 @@
-package be.intecbrussel;
+package be.intecbrussel.calc;
 
 import org.junit.jupiter.api.*;
 

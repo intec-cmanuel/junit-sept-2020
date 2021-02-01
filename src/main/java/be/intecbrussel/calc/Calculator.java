@@ -1,4 +1,4 @@
-package be.intecbrussel;
+package be.intecbrussel.calc;
 
 import java.util.ArrayList;
 import java.util.List;
